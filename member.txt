@@ -1,0 +1,4 @@
+userID,username,password,role,status, realname,email,contact
+592810,test,test,admin,active,kim,kostyakim@hotmail.com,0192058284
+asd,asd,manager
+lol,lol,admin
